@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErickaAlayna
-- 👀 I’m interested in Machine Learning, Data Science and Biology.
+- 👀 I’m interested in Machine Learning, Data Science, Psychology and Biology.
 - 🌱 I’m currently learning Foundational Data Science.
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science projects.
 - 📫 How to reach me ==> @ErickaAlayna#3593 on Discord
